@@ -32,3 +32,6 @@ AWS 스터디
 
 <9주차 ~ 12주차>
 - 기출문제
+
+## 샘플 문제
+> https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf
