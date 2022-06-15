@@ -156,9 +156,9 @@
 
 ![image](../resources/responsibility_paas.png)
 
-#### PaaS 사용의 경우 (e.g. S3)
+#### SaaS 사용의 경우 (e.g. S3)
 
-![image](../resources/responsibility_paas.png)
+![image](../resources/responsibility_saas.png)
 
 ## AWS 보안 제품 및 서비스
 - ***출제 빈도는 낮은편 ^..^***
